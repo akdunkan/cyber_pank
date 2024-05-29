@@ -117,7 +117,7 @@ span{
 .main_game{
     min-height: 884px;
     padding: 30px 20% 0px;
-    background: url(img/22%201.png)top/auto 70px no-repeat, url(img/22%202.png) bottom/auto 70px no-repeat,rgba(0, 0, 0, 1);
+    background:  url(img/22%202.png) bottom/auto 70px no-repeat,rgba(0, 0, 0, 1);
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
