@@ -1,0 +1,419 @@
+@media (max-width: 1500px){
+    body{
+        max-width: 1500px;
+    }
+    .head{
+        padding: 20px 20% 0px;
+    }
+    .head_logo{
+        width: 350px;
+    }
+    .header_window{
+        right: 20%;
+    }
+    .main_about{
+    padding: 70px 20% 0px;
+    height: 1100px;
+    }
+    .main_about_img{
+    flex-direction: column;
+    align-items: center;
+    margin-top: 40px;
+    }
+    .main_about_img_small{
+        flex-direction: row;
+        padding-bottom: 20px;
+        width: 100%
+    }
+    .img_big{
+        width: 100%;
+        height: 500px;
+    }
+    .img_small{
+    width: 49%;
+    height: auto; 
+    }
+    .main_game{
+    padding: 0px 20% 0px;
+    height: 1024px;
+    flex-direction: column;
+        align-items: flex-start;
+    }
+    .main_game h2{
+        padding-left: 0;
+        width: 400px;
+        margin-top: 5%
+    }
+    .main_game_text{
+        padding-top: 3%;
+        padding-bottom: 0;
+    }
+    .main_game_text{
+    width: 50%;
+    height: auto;
+    }
+    .main_group{
+    padding-top: 0px;
+    width: 50%;
+        margin-top: 20px
+    }
+    .main_group_img{
+        background: url(img/Layer%205.png)top left/80% auto no-repeat, url(img/Layer%206.png) bottom left/80% auto no-repeat;
+        height: 85%;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    #xb, #ps{
+        width: 75%;
+    height: auto;
+    }
+    #ps {
+    padding-left: 0;
+    }
+    .main_hp{
+    height: 866px;
+        align-items: flex-start;
+        padding-top: 10%;
+    }
+    #lines{
+        height: 19px;
+        padding: 3% 0px;
+    }  
+    .main_hp_img{
+        flex-direction: column;
+        justify-content: flex-end;
+        align-items: center;
+        height: 80%;
+    }
+    .main_sell h2{
+    padding-top: 10px;
+    }
+    .footer_logo{
+    padding: 0px 20%;
+    }
+    #footer_img{
+    padding-left: 0;  
+    }
+    .footer_logo img{
+        width: 100px;
+    }
+    #footer_text{
+    padding-right: 0;
+    }
+        
+}
+@media (max-width: 1024px){
+    body{
+        max-width: 1024px;
+    }
+    .head{
+        padding: 20px 5% 0px;
+    }
+    .header_window{
+        right: 5%;
+    }
+    .main_about{
+    padding: 70px 5% 0px;
+    }
+    .main_game{
+        padding: 0px 5% 0px;
+    }
+    .main_game_text{
+        padding-top: 0;
+    padding-bottom: 2%
+    }
+    .form_text_2{
+        display: none;
+    }
+    .main_group{
+    padding-top: 0px;
+    width: 45%;
+        margin-top: 0
+    }
+    .main_group_img{
+        width: 48%;
+        padding-left: 80px;
+        background: url(img/Layer%205.png)top left/90% auto no-repeat, url(img/Layer%206.png) bottom left/80% auto no-repeat;
+        height: 80%;
+    }
+    .main_hp{
+    padding: 150px 5% 0px;
+     height: 300px;   
+    }
+    .main_sell{
+    background: rgba(0, 0, 0, 1) url(../src/img/Untitled_1_1.png) left/40% 717px no-repeat;
+    padding-left: 43%;
+        padding-right: 5%;
+    }
+    .footer_logo{
+    padding: 0px 5%;
+    }
+    .footer_logo img{
+        width: auto;
+    }
+    .footer_img img{
+        width: 60%;
+    }
+    .footer_img{
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+    }
+    #footer_img{
+    padding-left: 3%;
+    }
+        
+}
+
+@media (max-width: 320px){
+    body{
+        max-width: 320px;
+    }
+    .head{
+        padding: 20px 1% 0px;
+        height: 713px;
+        background: url(img/11.png) center/100% no-repeat;
+    }
+    .head_head{
+        flex-direction: column;
+    }
+    .head_logo{
+        width: 200px;
+        height: 50px;
+    }
+    .head_logo img{
+        width: 200px;
+        height: 50px;
+    }
+     .head_main{
+    width: 98%;
+    height: 25px;
+         padding-top: 10px;
+    }
+    .head_main img{
+    width: 25px;
+    height: 25px;
+    }
+    .header_window{
+    width: 320px;
+    height: 207px;
+    background:url(img/Rectangle%2059_9.png) center/cover no-repeat;
+    position: absolute;
+        left: 0px;
+    bottom: -40px; 
+    }
+    .header_window h2{    
+        text-align: center;
+    font-family: 'Archangelsk';
+    font-size: 30px;
+    line-height: 31px;
+    padding-left: 0px;
+    padding-top: 30px;
+    width: 320px;
+}
+    .header_window button{
+    width: 244px;
+    height:60px;
+    font-size: 20px;
+    margin-left: 38px;
+    margin-top: 20px;
+}
+    .main_about{
+    padding: 70px 1% 0px;
+    height: 1510px;
+    background: url(img/22%201.png)bottom/cover 70px no-repeat;
+    }
+    h1{
+    font-size: 30px;
+    line-height: 31px;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+    }
+    span{
+    font-size: 16px;
+    line-height: 32px;
+    }
+    .main_about p{
+    font-size: 16px;
+    line-height: 32px;
+    }
+    .main_about_img_small{
+    flex-direction: column;
+    }
+    .img_big, .img_small{
+        width: 100%;
+        padding-bottom: 30px
+    }
+    .main_about_img_small{
+    margin-bottom: -20px;
+    }
+    .main_game{
+        height: 1001px;
+    padding: 0px 3% 0px;
+    }
+
+    .main_group_img{
+       flex-direction:row; 
+        order: -1;
+        background:url(img/Layer%205.png) left /50% auto no-repeat, url(img/Layer%206.png)  right/50% auto no-repeat;
+        width: 296px;
+        height: 130px;
+        padding-left: 0px;
+        margin-top: 30px;
+    }
+    .main_game_logo{
+        order:-1;
+    width: 62px;
+    height: auto;
+    }
+    .main_game_logo img{
+    width: 62px;
+    height: auto;
+    }
+    .main_game h2{
+        font-size: 30px;
+        line-height: 31px;
+    }
+    #xb, #ps{
+        height: 130px;
+        width: auto;
+    }
+    #xb{
+        padding-left: 30px;
+    }
+
+    .main_game_text{
+        width: 100%;
+    font-size: 16px;
+    line-height: 32px;
+    padding-top:10px;
+    margin-bottom: 20px;
+    }
+    .main_group, form{
+    width: 100%;
+    }
+    .form_text_1{
+        text-align: center;
+    }
+    .main_hp{
+    height: 1040px;
+    padding: 0 3%;
+    flex-direction: column;
+    }
+    .main_hp_img{
+    background: url(img/c06611743%201.png) top/296px 204px  no-repeat;
+    height: 273px;
+    width: 100%;
+    margin-top: 0px;
+        flex-direction: row;
+        align-items: flex-end;
+        justify-content: space-evenly;
+        margin-top: 70px;
+    }
+    #lines{
+        height: 11px;
+        width: 50px;
+        padding: 4% 0%;
+    }
+    .main_hp_img img{
+        height: 44px;
+    }
+    .main_hp_text{
+         width: 100%;
+        height: 587px;
+    padding-left: 0px;
+    margin-top: 50px;
+    }
+    .main_hp_text h2{
+        font-size: 30px;
+        line-height: 30.63px;
+    }
+    .main_hp_text p{
+    padding-top: 7%;
+    font-size: 16px;
+    line-height: 32px;
+    }
+    .main_hp_text ul{
+    padding-top: 7%;
+    font-size: 16px;
+    line-height: 21px;
+    }
+    .main_hp_text li{
+    margin-bottom: 7%;
+    }
+    .main_hp_text button{
+    width: 184px;
+    height: 60px;
+    font-size: 16px;
+    line-height: 19px;
+    margin-top: 30px;
+    }
+    .main_sell{
+    height: 785px;
+    background: rgba(0, 0, 0, 1) url(../src/img/Untitled_1_1.png) top/320px 198px no-repeat;
+    padding: 0 3%;
+    }
+    .main_sell h2{
+    font-size: 30px;
+    line-height: 31px;
+    padding-top: 220px;
+    }
+    .main_sell p{
+    font-size: 20px;
+    line-height: 24px;
+    padding-top: 20px;
+    }
+    .main_sell ul{
+    font-size: 16px;
+    line-height: 19px;
+    }
+    #style_disk, #style_code, #style_world{
+        padding-left: 40px;
+        height: 24px;
+    }
+    table{
+    margin: 0;
+    margin-left: -50px;
+    border-spacing: 50px 30px;
+    }
+    tbody{
+        width: 296px;
+        height: 127px;  
+    }
+    .footer_logo{
+    height: 293px;
+    padding: 0;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+    .footer_img{
+        flex-direction: column;
+        justify-content: space-evenly;
+        height: 190px;
+    }
+    #footer_img{
+        padding-left: 0;
+    }
+    .footer_text{
+        background: rgba(230, 230, 230, 1);
+        width: 320px;
+        height: 103px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+    .footer_logo a{
+    font-size: 16px;
+    line-height: 19px;
+    }
+    .footer_footer{
+    font-size: 12px;
+    line-height: 14px;
+        text-align: center;
+    }
+    .footer_footer p{
+    width: 320px;
+    }
+}
+    
