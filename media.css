@@ -141,7 +141,7 @@
      height: 300px;   
     }
     .main_sell{
-    background: rgba(0, 0, 0, 1) url(../src/img/Untitled_1_1.png) left/40% 717px no-repeat;
+    background: rgba(0, 0, 0, 1) url(img/Untitled_1_1.png) left/40% 717px no-repeat;
     padding-left: 43%;
         padding-right: 5%;
     }
@@ -350,7 +350,7 @@
     }
     .main_sell{
     height: 785px;
-    background: rgba(0, 0, 0, 1) url(../src/img/Untitled_1_1.png) top/320px 198px no-repeat;
+    background: rgba(0, 0, 0, 1) url(img/Untitled_1_1.png) top/320px 198px no-repeat;
     padding: 0 3%;
     }
     .main_sell h2{

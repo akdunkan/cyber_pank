@@ -117,7 +117,7 @@ span{
 .main_game{
     min-height: 884px;
     padding: 30px 20% 0px;
-    background: url(/img/22%201.png)top/auto 70px no-repeat, url(img/22%202.png) bottom/auto 70px no-repeat,rgba(0, 0, 0, 1);
+    background: url(img/22%201.png)top/auto 70px no-repeat, url(img/22%202.png) bottom/auto 70px no-repeat,rgba(0, 0, 0, 1);
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -325,21 +325,21 @@ label{
 }
 #style_img{
     list-style: none;
-    background: url(../src/img/Vector_6.png) left/26px no-repeat;
+    background: url(img/Vector_6.png) left/26px no-repeat;
     padding-left: 32px;
     width: auto;
     height: 26px;
 }
 #style_game{
     list-style:none;
-    background: url(../src/img/Vector_7.png) left/26px no-repeat; 
+    background: url(img/Vector_7.png) left/26px no-repeat; 
     padding-left: 32px;
     width: auto;
     height: 26px;
 }
 .main_sell{
     height: 717px;
-    background: rgba(0, 0, 0, 1) url(../src/img/Untitled_1_1.png) left/50% 717px no-repeat;
+    background: rgba(0, 0, 0, 1) url(img/Untitled_1_1.png) left/50% 717px no-repeat;
     padding-left: 51%;
     padding-right: 20%;
     
@@ -369,7 +369,7 @@ label{
 }
 #style_disk{
     list-style:none;
-    background: url(../src/img/disk.png) left/27px no-repeat; 
+    background: url(img/disk.png) left/27px no-repeat; 
     padding-left: 32px;
     width: auto;
     height: 27px;
@@ -377,7 +377,7 @@ label{
 }
 #style_code{
     list-style:none;
-    background: url(../src/img/Group.png) left/27px no-repeat; 
+    background: url(img/Group.png) left/27px no-repeat; 
     padding-left: 32px;
     width: auto;
     height: 27px;
@@ -385,7 +385,7 @@ label{
 }
 #style_world{
     list-style:none;
-    background: url(../src/img/collections.png) left/27px no-repeat; 
+    background: url(img/collections.png) left/27px no-repeat; 
     padding-left: 32px;
     width: auto;
     height: 27px;
